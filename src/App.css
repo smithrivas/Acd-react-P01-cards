@@ -24,7 +24,7 @@ body{
 .dataCard p{
     text-align: start;
     font-size: 20px;
-    line-height: 0.8rem;
+    line-height: 1.5rem;
 }
 .dataCard img{
     border-radius: 50%;    
